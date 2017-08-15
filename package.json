@@ -1,0 +1,16 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "crawler": "^1.0.5",
+    "jsdom": "^11.1.0",
+    "mkdirp": "^0.5.1"
+  }
+}
